@@ -1,0 +1,26 @@
+{
+  "effectiveYear": 2025,
+  "rates": [
+    { "priceListID": 1001, "lotNumber": 1,  "priceFirstHour": 13, "priceAdditionalHour": 7, "priceFullDay": 75 },
+    { "priceListID": 1002, "lotNumber": 2,  "priceFirstHour": 14, "priceAdditionalHour": 8, "priceFullDay": 80 },
+    { "priceListID": 1003, "lotNumber": 3,  "priceFirstHour": 12, "priceAdditionalHour": 6, "priceFullDay": 70 },
+    { "priceListID": 1004, "lotNumber": 4,  "priceFirstHour": 11, "priceAdditionalHour": 6, "priceFullDay": 68 },
+    { "priceListID": 1005, "lotNumber": 5,  "priceFirstHour": 10, "priceAdditionalHour": 5, "priceFullDay": 65 },
+    { "priceListID": 1006, "lotNumber": 6,  "priceFirstHour": 9,  "priceAdditionalHour": 5, "priceFullDay": 62 },
+    { "priceListID": 1007, "lotNumber": 7,  "priceFirstHour": 12, "priceAdditionalHour": 6, "priceFullDay": 72 },
+    { "priceListID": 1008, "lotNumber": 8,  "priceFirstHour": 13, "priceAdditionalHour": 6, "priceFullDay": 74 },
+    { "priceListID": 1009, "lotNumber": 9,  "priceFirstHour": 14, "priceAdditionalHour": 7, "priceFullDay": 78 },
+    { "priceListID": 1010, "lotNumber": 10, "priceFirstHour": 15, "priceAdditionalHour": 8, "priceFullDay": 82 },
+
+    { "priceListID": 1011, "lotNumber": 11, "priceFirstHour": 10, "priceAdditionalHour": 5, "priceFullDay": 60 },
+    { "priceListID": 1012, "lotNumber": 12, "priceFirstHour": 11, "priceAdditionalHour": 5, "priceFullDay": 63 },
+    { "priceListID": 1013, "lotNumber": 13, "priceFirstHour": 12, "priceAdditionalHour": 6, "priceFullDay": 66 },
+    { "priceListID": 1014, "lotNumber": 14, "priceFirstHour": 13, "priceAdditionalHour": 6, "priceFullDay": 69 },
+    { "priceListID": 1015, "lotNumber": 15, "priceFirstHour": 14, "priceAdditionalHour": 7, "priceFullDay": 72 },
+    { "priceListID": 1016, "lotNumber": 16, "priceFirstHour": 15, "priceAdditionalHour": 7, "priceFullDay": 75 },
+    { "priceListID": 1017, "lotNumber": 17, "priceFirstHour": 16, "priceAdditionalHour": 8, "priceFullDay": 78 },
+    { "priceListID": 1018, "lotNumber": 18, "priceFirstHour": 17, "priceAdditionalHour": 9, "priceFullDay": 82 },
+    { "priceListID": 1019, "lotNumber": 19, "priceFirstHour": 18, "priceAdditionalHour": 9, "priceFullDay": 85 },
+    { "priceListID": 1020, "lotNumber": 20, "priceFirstHour": 19, "priceAdditionalHour": 10, "priceFullDay": 90 }
+  ]
+}
