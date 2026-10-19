@@ -54,5 +54,5 @@ The application enforces a strict separation of concerns across three core archi
 │   └── AnnualSummary.jrxml       # JasperReports template definition
 ├── lib/                          # UCanAccess & JasperReports JAR dependencies
 ├── output/                       # Pre-compiled sample PDF financial reports
-├── data/                         # Sample IRS tariff JSON matrices
+├── json/                         # Sample IRS tariff JSON matrices
 └── README.md                     # System documentation
